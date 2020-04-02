@@ -1,0 +1,7 @@
+﻿  ООП.cpp
+c:\users\win10\desktop\ооп\_решения\лаба ооп 6\lab_oop_6\ооп.cpp(22): warning C4091: extern : пропускается слева от "typeEnk", когда ни одна переменная не объявлена
+c:\users\win10\desktop\ооп\_решения\лаба ооп 6\lab_oop_6\ооп.cpp(49): warning C4091: extern : пропускается слева от "typeFuel", когда ни одна переменная не объявлена
+c:\users\win10\desktop\ооп\_решения\лаба ооп 6\lab_oop_6\ооп.cpp(240): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\win10\desktop\ооп\_решения\лаба ооп 6\lab_oop_6\ооп.cpp(250): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\win10\desktop\ооп\_решения\лаба ооп 6\lab_oop_6\ооп.cpp(274): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  ООП.vcxproj -> C:\Users\win10\Desktop\ООП\_Решения\Лаба ООП 6\Lab_OOP_6\x64\Debug\ООП.exe
